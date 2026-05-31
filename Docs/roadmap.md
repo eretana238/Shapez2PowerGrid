@@ -1,5 +1,7 @@
 # Roadmap
 
+**Art:** Follow the [Shapez 2 modding art guidelines](https://tobspr-games.notion.site/shapez2-modding-art-guidelines) for meshes, icons, scale, and visual style when creating building assets.
+
 ## Power Generators & Models
 
 Each generator needs the same asset types as Micro Reactor (see `Resources/MicroReactor.fbx`, `PowerGrid_Icon.png`):
@@ -50,6 +52,7 @@ Each generator needs the same asset types as Micro Reactor (see `Resources/Micro
 
 **Modeling notes (all new buildings):**
 
+- Follow [Shapez 2 modding art guidelines](https://tobspr-games.notion.site/shapez2-modding-art-guidelines) for scale, materials, and icon style.
 - Match game scale — use Micro Reactor FBX as reference for tile alignment and height.
 - Multi-tile buildings (5×5, 8×8) need connector layout + `WithPreferredPlacement` decided before mesh work.
 - Placeholder cubes OK for sim work; swap FBX when art ready.

@@ -121,7 +121,7 @@ else
 ### Instead
 
 - Use custom tick/update timers.
-- Ship V1 with logs/debug overlay.
+- Ship V1 with logs and the player-facing power HUD.
 - Use placeholder assets if needed.
 
 ## V1 Scope
@@ -133,12 +133,12 @@ else
 - Platform-based networks.
 - Efficiency slowdown.
 - Micro Reactor.
-- Debug readout.
+- Power HUD (generation, usage, ratio, efficiency).
 
 **Skipped for V1:**
 
 - Poles.
-- HUD polish.
+- Native HUD integration / extra polish.
 - Fancy assets.
 - Native integrations.
 
