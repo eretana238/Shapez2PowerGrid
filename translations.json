@@ -1,0 +1,16 @@
+{
+  "en-US": {
+    "building-variant.powergrid-micro-reactor.title": "Micro Reactor",
+    "building-variant.powergrid-micro-reactor.description": "Consumes shapes to generate power for connected platform and rail networks.",
+    "powergrid.side-upgrade.micro-reactor.title": "Micro Reactor",
+    "powergrid.side-upgrade.micro-reactor.description": "Unlocks the Micro Reactor power generator.",
+    "powergrid.toolbar.power-tab.title": "Power",
+    "powergrid.toolbar.generators.title": "Generators",
+    "powergrid.toolbar.generators.description": "Shape-powered generators for platform and rail networks.",
+    "powergrid.hud.title": "Power Grid",
+    "powergrid.hud.output": "Power Output",
+    "powergrid.hud.usage": "Power Usage",
+    "powergrid.hud.ratio": "Power Ratio",
+    "powergrid.hud.efficiency": "Grid Efficiency"
+  }
+}

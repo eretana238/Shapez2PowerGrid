@@ -1,0 +1,41 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+artifacts/
+logs/
+*.log
+
+# NuGet
+[Pp]ackages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.sln.ide
+_ReSharper.*
+*.DotSettings.user
+
+# JetBrains Rider / IntelliJ
+.idea/
+**/.idea/**/workspace.xml
+**/.idea/**/tasks.xml
+**/.idea/shelf/*
+**/.idea/**/contentModel.xml
+**/.idea/**/modules.xml
+**/.idea/**/*.iml
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Upgrade / publish scratch
+_UpgradeReport_Files/

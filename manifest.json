@@ -1,0 +1,26 @@
+﻿{
+  "Version": "0.0.1",
+  "Title": "PowerGrid",
+  "Description": "Adds platform-based power networks and Micro Reactor generation to the game",
+  "Author": "no_zcope",
+  "AffectsSaveGames": true,
+  "DisablesAchievements": true,
+  "SavedModVersionCompabilityRangeWithSelf": "*",
+  "GameVersionSupportRange": ">=1.0.0",
+  "Assemblies": [
+    "PowerGrid.dll"
+  ],
+  "Dependencies": [
+    {
+      "ModId": "steam:3542611357",
+      "ModTitle": "Shapez Shifter",
+      "Version": "1.0.*"
+    },
+    {
+      "ModId": "steam:3720742050",
+      "ModTitle": "HarmonyX",
+      "Version": "*"
+    }
+  ],
+  "Conflicts": []
+}
